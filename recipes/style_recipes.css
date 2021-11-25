@@ -1,0 +1,15 @@
+h1 {
+    text-align: center;
+    font-family: cursive;
+    font-size: 40px;
+    background-color: lightsalmon;
+    border: black 5px solid;
+    padding: 5px;
+}
+
+.imagem {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 10px black solid;
+}
