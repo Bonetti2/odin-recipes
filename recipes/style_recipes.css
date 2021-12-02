@@ -5,6 +5,7 @@ h1 {
     background-color: lightsalmon;
     border: black 5px solid;
     padding: 5px;
+    padding-top: 10px;
 }
 
 .imagem {
@@ -12,4 +13,10 @@ h1 {
     margin-left: auto;
     margin-right: auto;
     border: 10px black solid;
+    }
+}
+
+div {
+    max-width: 1000px;
+    margin: 0 auto;
 }
