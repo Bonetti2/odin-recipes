@@ -1,10 +1,11 @@
 body {
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
+        background-color:rgb(106, 141, 207);
 }
 
 h1 {
-    background-color:lightblue;
+    background-color:rgb(216, 186, 14);
     padding: 20px;
     border: 10px solid black;
     margin-left: auto;
@@ -22,7 +23,7 @@ div {
 
 a {
     border: 2px solid gainsboro;
-    background-color: lightsteelblue
+    background-color: rgb(167, 168, 81)
 }
 
 li {

@@ -1,8 +1,12 @@
+body {
+    background-color:rgb(106, 141, 207);
+}
+
 h1 {
     text-align: center;
     font-family: cursive;
     font-size: 40px;
-    background-color: lightsalmon;
+    background-color: rgb(247, 182, 157);
     border: black 5px solid;
     padding: 5px;
     padding-top: 10px;
